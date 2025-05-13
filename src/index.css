@@ -1,0 +1,7 @@
+/* במקום שלושת ה-@tailwind הישנים */
+@import "tailwindcss";          /* מכניס theme + preflight + utilities */
+
+/* הרחבות מותאמות אישית? */
+@layer components {
+  /* כאן אפשר להגדיר מחלקות משלך */
+}
